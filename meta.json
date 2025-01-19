@@ -1,6 +1,6 @@
 {
-  "name": "3KYN Token",
-  "symbol": "KYN",
+  "name": "3KYN-Token",
+  "symbol": "3KYN",
   "description": "Example token from Solana Making a Token guide.",
   "image": "https://raw.githubusercontent.com/DavidLamos/img/refs/heads/master/1539774.webp"
 }
